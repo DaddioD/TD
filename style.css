@@ -54,8 +54,8 @@ body {
 }
 
 .mask {
-  width: 800px;
-  height: 250px;
+  width: 340px;
+  height: 196px;
   -webkit-animation: move 100s infinite;
           animation: move 100s infinite;
   background-image: url(https://daddiod.github.io/TD/mountain.jpg);
