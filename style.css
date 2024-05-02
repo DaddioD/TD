@@ -21,7 +21,7 @@ body {
   0% {
     background-position: 0 0;
   }
-  50% {
+  150% {
     background-position: 100% 0;
   }
 }
@@ -30,7 +30,7 @@ body {
   0% {
     background-position: 0 0;
   }
-  50% {
+  150% {
     background-position: 100% 0;
   }
 }
