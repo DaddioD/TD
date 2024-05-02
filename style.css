@@ -54,8 +54,8 @@ body {
 }
 
 .mask {
-  width: 308px;
-  height: 83px;
+  width: 800px;
+  height: 250px;
   -webkit-animation: move 100s infinite;
           animation: move 100s infinite;
   background-image: url(https://sp-webfront.skypixel.com/skypixel/v2/public/website/assets/1535027674204-f6eca6369ec03e70262b58b0e25cda7b.jpg);
