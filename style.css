@@ -22,7 +22,7 @@ body {
     background-position: 0 0;
   }
   50% {
-    background-position: 1000% 0;
+    background-position: 100% 0;
   }
 }
 
@@ -31,7 +31,7 @@ body {
     background-position: 0 0;
   }
   50% {
-    background-position: 1000% 0;
+    background-position: 100% 0;
   }
 }
 .bg {
@@ -59,7 +59,7 @@ body {
   -webkit-animation: move 100s infinite;
           animation: move 100s infinite;
   background-image: url(https://daddiod.github.io/TD/mountain.jpg);
-  background-size: cover;
+  background-size: 500%;
   -webkit-mask: url(https://daddiod.github.io/TD/daddiod.png);
           mask: url(https://daddiod.github.io/TD/daddiod.png);
   -webkit-mask-size: cover;
