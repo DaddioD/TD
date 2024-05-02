@@ -21,8 +21,8 @@ body {
   0% {
     background-position: 0 0;
   }
-  150% {
-    background-position: 100% 0;
+  50% {
+    background-position: 200% 0;
   }
 }
 
@@ -30,8 +30,8 @@ body {
   0% {
     background-position: 0 0;
   }
-  150% {
-    background-position: 100% 0;
+  50% {
+    background-position: 200% 0;
   }
 }
 .bg {
